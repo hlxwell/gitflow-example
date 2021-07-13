@@ -1,3 +1,3 @@
 # Gitflow Example
 
-Just for sharing.
+Just for sharing the knowledge within the team.
